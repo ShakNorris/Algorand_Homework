@@ -1,0 +1,37 @@
+Form to Fill Out
+Step 1.1:
+
+    Address of account A: Y5VVMVHLZFC6HWD3XAVEM4VA3AOSDO6G5LNZEQARAQKVWYBYUKKAKNGLBY
+    Address of account B: CHBY5G7VF57PHI3LWISDLQCJ3LKO3FAEUWDV75RQI7ZFEZLX2NIJY2WDTM
+
+Step 2:
+
+    Transaction ID from account A: MPMAUDICRT2333PDSQI6RGKWTAV7GNKGO7YT6F7VELXQ7KEBYSNQ
+    Transaction ID from account B: 5WTXSI7T2L6OWCFKBOJ3OKBD6FIHA2JYAH5ZAG3WYGNT5NYCR64A
+
+Step 3.1:
+
+    Asset ID: 123838398
+    Name of the asset: abstract
+
+Step 3.2:
+
+    Transaction ID for opt-in of account B: SX54FYGAK54CUW22WVU77MJDVTYDZWSZVOLN4TCKK75YUVMVK37A
+
+Step 3.3:
+
+    Transaction ID for transfer of asset from A to B: O4DC6JOTTWLBVWKEGPPQ2NHZIIWFVSBYXOR7LJRZCDYDCWKDIAEQ
+
+Step 4:
+
+    Transaction ID of the first transaction of the atomic transfer: XZRX4SNJTEHR4NEB5PLGQ5DSHCNXQBTDPT2VKDL3PA7IRHOB4RIA
+    Transaction ID of the Asset transaction of the atomic transfer: FDRHHSFFEG473HGUW6XKNUHUVK3CMI2ADY7M7AGUNQO7WFXBMGXQ
+    Group ID: mVy9p0ltt6q+PTRGeJ1VxwU5QgDcKwPkwHuxPeVq2oE=
+
+Step 5.1:
+
+    Transaction ID for opt-in of account A: TTY5VMLS4PIXKP47HSVOHCBC2EEQOIFI3O6XSQ73GZ6SQTUW5OBA
+
+Step 5.2:
+
+    Transaction ID of the first transaction of the atomic transfer: GTZM3YFY2Y5UZF5BKVJRUBRHDJEWJDZHZNZ77UGVKPSWEKP6RTNQ
